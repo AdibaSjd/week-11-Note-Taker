@@ -32,7 +32,7 @@ My main issue was getting the delete  button to work. As each time the button wa
  
 
 ## General info
-This is a page developed through HTML and later styled through CSS. The main functionality of the page comes from Java Script which allows for the interactivity by the user to be able to go into the page to save and delete notes. The user is presented with a page containing a show of the notes they have made. The user can actively add notes to their list to track and delete them when they are no longer necessary.
+This is a page developed through javascript, HTML and later styled through CSS. The main functionality of the page comes from Java Script which allows for the interactivity by the user to be able to go into the page to save and delete notes. The user is presented with a page containing a show of the notes they have made. The user can actively add notes to their list to track and delete them when they are no longer necessary.
 
 ## Page link
 
