@@ -36,7 +36,7 @@ This is a page developed through javascript, HTML and later styled through CSS. 
 
 ## Page link
 
-
+https://adiba-note-taker.herokuapp.com/
 
 
 ## MY WEB PAGE
